@@ -1,0 +1,43 @@
+/* Contact us  */
+.countact-us{
+  margin-top: 80px;
+  position: relative;
+  display:grid;
+  margin-bottom: 90px;
+  /* padding: 5px 50px; */
+}
+.add-img{
+  position: absolute;
+  top: -40px;  
+  right: 150px;  
+  color: white;
+  
+}
+.circal-img{
+position: absolute;
+left: 170px; 
+top: 100px;
+
+}
+.countact-us-caption{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.countact-us-caption h1{
+    font-size: 40px;
+    max-width: 40%;
+}
+.countact-us-caption button{
+    margin-left: 30%;
+    color: #fff;
+    align-items: center;
+    padding : 12px 20px;
+    font-size : 16px;
+    font-weight : 600;
+    border-radius : 4px;
+    background-color : #5454D4;
+    border : none;
+    cursor : pointer;
+}
