@@ -9,7 +9,7 @@ import Portfolio from '../../Components/Portfolio/Portfolio'
 import ContactUs from '../../Components/ContactUs/ContactUs'
 import Footer from '../../Components/Footer/Footer'
 
-const Home = () => {
+const HomePage = () => {
   return (
     <div className='home'>
           <Navbar/>
@@ -23,4 +23,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default HomePage
